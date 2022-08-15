@@ -22,19 +22,21 @@
     "url": "https://github.com/sklme/eslint-config/issues"
   },
   "homepage": "https://github.com/sklme/eslint-config#readme",
-  "dependencies": {
+  "peerDependencies": {
+    "eslint": ">=8",
+    "@typescript-eslint/eslint-plugin": ">=5",
+    "@typescript-eslint/parser": ">=5",
+    "eslint-plugin-vue": ">=9",
+    "typescript": ">=4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.6.4",
+    "commitizen": "^4.2.5",
+    "cz-conventional-changelog": "^3.3.0",
     "@typescript-eslint/eslint-plugin": "^5.32.0",
     "@typescript-eslint/parser": "^5.32.0",
     "eslint": "^8.21.0",
     "eslint-plugin-vue": "^9.3.0",
     "typescript": "^4.7.4"
-  },
-  "peerDependencies": {
-    "eslint": ">=8"
-  },
-  "devDependencies": {
-    "@types/node": "^18.6.4",
-    "commitizen": "^4.2.5",
-    "cz-conventional-changelog": "^3.3.0"
   }
 }
