@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/sklme/eslint-config/compare/v1.0.2...v1.0.3) (2023-01-30)
+
+
+### Bug Fixes
+
+* 不在要求eslint-plugin-vue作为peerDependencies ([48b96ed](https://github.com/sklme/eslint-config/commit/48b96edb0ed71ac0504f5183935bf34c3bb0153b))
+
 ## [1.0.2](https://github.com/sklme/eslint-config/compare/v1.0.1...v1.0.2) (2022-08-15)
 
 
