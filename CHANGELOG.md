@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/sklme/eslint-config/compare/v1.0.3...v1.1.0) (2023-01-30)
+
+
+### Features
+
+* 增加对纯ts的支持 ([a7e5568](https://github.com/sklme/eslint-config/commit/a7e55687edaeb6430e2e310e78478bce7e9a5a12))
+
 ## [1.0.3](https://github.com/sklme/eslint-config/compare/v1.0.2...v1.0.3) (2023-01-30)
 
 
