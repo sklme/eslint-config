@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/sklme/eslint-config/compare/v1.1.0...v1.1.1) (2023-01-30)
+
+
+### Bug Fixes
+
+* 解决没有输出的问题 ([4f41e82](https://github.com/sklme/eslint-config/commit/4f41e82a22c31a43bb0eb4a4e930da368417d758))
+
 ## [1.1.0](https://github.com/sklme/eslint-config/compare/v1.0.3...v1.1.0) (2023-01-30)
 
 
