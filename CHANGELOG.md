@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/sklme/eslint-config/compare/v1.1.1...v1.1.2) (2023-01-30)
+
+
+### Bug Fixes
+
+* add tsconfig ([c337d18](https://github.com/sklme/eslint-config/commit/c337d1866618340afc8d8710329ce12e4510fac7))
+
 ## [1.1.1](https://github.com/sklme/eslint-config/compare/v1.1.0...v1.1.1) (2023-01-30)
 
 
