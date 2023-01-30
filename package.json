@@ -1,6 +1,6 @@
 {
   "name": "@iskl/eslint-plugin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "common eslint config for dev comvenience",
   "main": "pugin.cjs",
   "exports": {
